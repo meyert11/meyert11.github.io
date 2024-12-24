@@ -1,4 +1,4 @@
-# Data Scientist
+# Senior Data Scientist
 
 #### Technical Skills: Python, AWS, SQL, MATLAB
 
@@ -7,7 +7,7 @@
 - B.S., Psychobiology | Florida Atlantic University
 
 ## Work Experience
-**Data Scientist @ Vanguard (2024 - Present_)**
+**Senior Data Scientist @ Vanguard (2024 - Present_)**
 - Redeveloped Journey-Completion-Rate model which resulted in 50% improvement in model performance to better uncover customer friction points.
 - Utilized NLP modeling and visualization to uncover customer issues utilizing CSAT and Voice analyses for Core business departments (onboarding and managing accounts).
 
