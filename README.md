@@ -37,9 +37,8 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 4. Ramachandran S, Meyer T, Olson CR. Prediction Suppression in Monkey Inferotemporal Cortex Depends on the Conditional Probability Between Images. Journal of Neurophysiology (2017)
 5. Meyer T, Walker C, Cho RY, Olson CR. Image Familiarization Sharpens  Response Dynamics of Neurons in Inferotemporal Cortex. Nature Neuroscience Oct, 17(10):1388-94 (2014)
 6. Meyer T, Ramachandran S, Olson CR. Statistical Learning of Serial Visual  Transitions by Neurons in Monkey Inferotemporal Cortex. Journal of  Neuroscience Jul 9; 34(28):9332-7 (2014)
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Katsuki F, Qi KL, Meyer T, Kostelic PM, Salinas E, Constantinidis C. Differences in Intrinsic Functional Organization Between Dorsolateral  Prefrontal and Posterior Parietal Cortex. Cerebral Cortex Mar 31 (2013)
-9. Qi XL, Meyer T, Stanfrod TR, Constantinidis C. Neural Correlates of a Decision  Variable Before Learning to Perform a Match/Non-Match Task. Journal of  Neuroscience May2; 32(18):6161-6168 (2012)
-10. Meyer T, Qi XL, Constantinidis C. Persistent discharges in the prefrontal  cortex of monkeys naïve to working memory tasks. Cerebral Cortex Sep;  17:I70-I76 (2007)
-11. Meyer T, Constantinidis C. A software solution for the control of visual  behavioral experimentation. Journal of Neuroscience Methods 142(1):27-34 (2005)
+7. Katsuki F, Qi KL, Meyer T, Kostelic PM, Salinas E, Constantinidis C. Differences in Intrinsic Functional Organization Between Dorsolateral  Prefrontal and Posterior Parietal Cortex. Cerebral Cortex Mar 31 (2013)
+8. Qi XL, Meyer T, Stanfrod TR, Constantinidis C. Neural Correlates of a Decision  Variable Before Learning to Perform a Match/Non-Match Task. Journal of  Neuroscience May2; 32(18):6161-6168 (2012)
+9. Meyer T, Qi XL, Constantinidis C. Persistent discharges in the prefrontal  cortex of monkeys naïve to working memory tasks. Cerebral Cortex Sep;  17:I70-I76 (2007)
+10. Meyer T, Constantinidis C. A software solution for the control of visual  behavioral experimentation. Journal of Neuroscience Methods 142(1):27-34 (2005)
 
