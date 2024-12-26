@@ -2,6 +2,6 @@ title: Travis Meyer
 logo: /assets/img/Lab_s75.png
 description: Travis Meyer is a Senior Data Scientist at Vanguard, where he uses machine learning, deep neural networks, and advanced statistical analytics to gain insights into customer experience. 
 show_downloads: false
-remote_theme: meyert11/Theme
+remote_theme: meyert11/theme
 matomo_analytics: false
 #theme: jekyll-theme-minimal
