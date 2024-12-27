@@ -20,7 +20,6 @@
 [Github](https://github.com/meyert11/travnet)
 
 Developed TravNet, a deep learning network, trained on big data platforms of human-sorted neural data to automate a time-limiting task, reducing the daily workload by 25% and fascilitate onboarding. 
-![automating human-expert spike sorting](https://github.com/neurodynamics-ai/travnet/blob/main/TravNet.repo.jpg)
 
 ### Analytics-Based Customer Friction Metric.
 
