@@ -4,4 +4,5 @@ description: Travis Meyer is a Senior Data Scientist at Vanguard, where he uses 
 show_downloads: false
 remote_theme: meyert11/theme
 google_analytics: true
+favicon: /assets/img/Brain_elec.gif
 #theme: jekyll-theme-minimal
