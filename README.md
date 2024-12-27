@@ -16,18 +16,15 @@
 - Applied supervised and unsupervised deep learning approaches to automating laboratory and analysis tasks saving 25% of experimental time.
 
 ## Projects
-### TravNet: automated spike sorted
+### TravNet: Automated Spike Sorting
 [Github](https://github.com/meyert11/travnet)
 
 Developed TravNet, a deep learning network, trained on big data platforms of human-sorted neural data to automate a time-limiting task, reducing the daily workload by 25% and fascilitate onboarding. 
-![EEG Band Discovery](https://github.com/neurodynamics-ai/travnet/blob/main/TravNet.repo.jpg)
+![automating human-expert spike sorting](https://github.com/neurodynamics-ai/travnet/blob/main/TravNet.repo.jpg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Analytics Based Customer Friction Metric.
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
+Led the data science updating of a core metric that leadership uses to measure customer friction (journey completion rate), replacing subjectively chosen groups with data-driven results for better statistical accuracy.
 
 ## Publications
 1. Mehrpour V, Meyer T, Simoncelli EP, Rust NC. Pinpointing the Neural Signatures of Single-exposure Visual Recognition Memory. Proceedings of  the National Academy of Sciences (2021)
