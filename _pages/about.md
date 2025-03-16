@@ -11,7 +11,6 @@ profile:
   more_info: >    
     <div style="text-align: center;">
     <p>Vanguard</p>
-    <p>Malvern, PA</p
     </div>    
 
 news: false # includes a list of news items
