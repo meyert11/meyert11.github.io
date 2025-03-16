@@ -24,9 +24,9 @@ Travis Meyer, is a Senior Data Scientist in Customer Experience at Vanguard. He 
 
 Travis' early work focused on learning how neural networks in the visual system worked by studying learning, memory and complex visual functions:
 
-- [Working Memory in Prefrontal Cortex Neural Circuits](https://academic.oup.com/cercor/article-abstract/17/suppl_1/i70/448909?redirectedFrom=fulltext) and [Learning in Prefrontal Cortex](https://www.researchgate.net/publication/51081929_Stimulus_Selectivity_in_Dorsal_and_Ventral_Prefrontal_Cortex_after_Training_in_Working_Memory_Tasks) as part of his PhD Thesis.
+- [Working Memory in Prefrontal Cortex Neural Circuits](https://www.researchgate.net/publication/245628571_Effects_of_training_to_perform_a_working_memory_Task_on_regular_spiking_and_fast_spiking_neurons_in_the_lateral_prefrontal_cortex) and [Learning in Prefrontal Cortex](https://www.researchgate.net/publication/51081929_Stimulus_Selectivity_in_Dorsal_and_Ventral_Prefrontal_Cortex_after_Training_in_Working_Memory_Tasks) as part of his PhD Thesis.
 - To acomplish this he developed [a new software IDE](https://www.researchgate.net/publication/8078008_A_software_solution_for_the_control_of_visual_behavioral_experimentation) to control and coordinate the experimental hardware and store the data securely.
-- He surprisingly found that the brain automatically cached information.
+- He surprisingly found that the brain automatically cached information unconsciously [publication]https://www.researchgate.net/publication/6114369_Persistent_Discharges_in_the_Prefrontal_Cortex_of_Monkeys_Naive_to_Working_Memory_Tasks)
 - Applying [singular learning theory](https://edmundlth.github.io/posts/overview-of-singular-learning-theory/) to examine phase transitions in algorithmic tasks.
 - Mechanistically interpreting [prior-fitted tabular transformers](https://arxiv.org/abs/2207.01848).
 - Creating sparse boolean circuits (inspired by [computation in superposition](https://arxiv.org/abs/2408.05451)) as testbeds and benchmarks for interpretability methods.
