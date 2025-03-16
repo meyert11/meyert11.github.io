@@ -8,8 +8,7 @@ profile:
   align: right
   image: prof_pic.png
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>Chief Data Analytics Office</p>
+  more_info: >    
     <p>Vanguard</p>
     <p>Malvern, PA</p>
 
