@@ -9,7 +9,7 @@ profile:
   image: prof_pic.png
   image_circular: true # crops the image to make it circular
   more_info: >    
-    <p>Vanguard</p>
+    <p>Vanguard/n</p>
     <p>Malvern, PA</p>
 
 news: false # includes a list of news items
