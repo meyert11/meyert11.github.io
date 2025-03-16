@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: AI Safety Researcher | Mechanistic Interpretability Enthusiast | PhD Candidate at the <a href='https://www.uva.nl/en/profile/b/e/l.f.bereska/l.f.bereska.html'>University of Amsterdam</a>.
+subtitle: Data Science | Neuroscience | AI/ML</a>.
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Chief Data Analytics Office</p>
-    <p>Vanguard Headquarters</p>
+    <p>Vanguard</p>
     <p>Malvern, PA</p>
 
 news: false # includes a list of news items
@@ -18,15 +18,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm Travis, a Senior Data Scientist at Vanguard, excited to be taking the neural network knowledge from decades of neuroscience experiments to develop deep neural networks to help customer experience and reduce cost through automation.
+Travis Meyer, is a Senior Data Scientist in Customer Experience at Vanguard. He uses his background as a Neuroscientist at the [University of Pennsylvania](https://www.med.upenn.edu/neuroscience/), and Deep Learning at [Carnegie Mellon University](https://www.cmu.edu/) to develop artifical intelligence tools that process and simplify large amounts of data. 
 
 ### research focus
 
-My work revolves around reverse engineering neural networks into human-interpretable algorithms. I'm particularly interested in:
+Travis' early work focused on learning how neural networks in the visual system worked by studying learning, memory and complex visual functions:
 
-- [Engineering monosemanticity](https://arxiv.org/abs/2211.09169) and implementing [sparse distillation](https://www.lesswrong.com/posts/MXabwqMwo3rkGqEW8/sparse-mlp-distillation) techniques in transformer models.
-- Investigating the relationship between [mechanistic interpretability and adversarial robustness](https://leonardbereska.github.io/blog/2024/mechrobustproposal/).
-- Analyzing [truth representations](http://arxiv.org/abs/2312.01037) and [simulacra](https://generative.ink/posts/simulators/) in large language models.
+- [Working Memory in Prefrontal Cortex Neural Circuits](https://academic.oup.com/cercor/article-abstract/17/suppl_1/i70/448909?redirectedFrom=fulltext) and [Learning in Prefrontal Cortex](https://www.researchgate.net/publication/51081929_Stimulus_Selectivity_in_Dorsal_and_Ventral_Prefrontal_Cortex_after_Training_in_Working_Memory_Tasks) as part of his PhD Thesis.
+- To acomplish this he developed [a new software IDE](https://www.researchgate.net/publication/8078008_A_software_solution_for_the_control_of_visual_behavioral_experimentation) to control and coordinate the experimental hardware and store the data securely.
+- He surprisingly found that the brain automatically cached information.
 - Applying [singular learning theory](https://edmundlth.github.io/posts/overview-of-singular-learning-theory/) to examine phase transitions in algorithmic tasks.
 - Mechanistically interpreting [prior-fitted tabular transformers](https://arxiv.org/abs/2207.01848).
 - Creating sparse boolean circuits (inspired by [computation in superposition](https://arxiv.org/abs/2408.05451)) as testbeds and benchmarks for interpretability methods.
