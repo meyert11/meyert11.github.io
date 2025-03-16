@@ -1,1 +1,4 @@
-User-agent: * Disallow: Sitemap: https://meyert11.github.io/sitemap.xml
+User-agent: *
+Disallow:
+
+Sitemap: https://meyert11.github.io/sitemap.xml
