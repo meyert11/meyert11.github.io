@@ -64,6 +64,32 @@
       "courses": [""]
     }
   ],  
+  "projects": [
+    {
+      "name": "TravNet",
+      "summary": "A computer vision project to automate sorting of neuron clusters - saving ~2 hours per day.",
+      "highlights": ["CNNs", "DataWrangling"],
+      "startDate": "2020",
+      "endDate": "2022",
+      "url": "https://github.com/meyert11/travnet"
+    },
+    {
+      "name": "ViaDoc",
+      "summary": "A computer vision project to automate the identification of sensative financial documents.",
+      "highlights": ["Multimodal Transformers", "AWS prod development"],
+      "startDate": "2024",
+      "endDate": "present",
+      "url": ""
+    },
+    {
+      "name": "RaFT",
+      "summary": "An NLP model using BeRT to cluster and estimate customer senitment using customer survey data",
+      "highlights": ["BeRT Models", "NLP, Clustering"],
+      "startDate": "2024",
+      "endDate": "2025",
+      "url": ""
+    }
+  ],  
   "certificates": [
     {
       "name": "AWS Machine Learning Specialist",
@@ -115,6 +141,27 @@
       "releaseDate": "Mar 2018",
       "url": "https://meyerbox.travismeyer.us/url/hahixi5qiccuiwyq",
       "summary": "Our visual memory percepts of whether we have encountered specific objects orscenes before are hypothesized to manifest as decrements in neural responses in inferotemporalcortex (IT) with stimulus repetition. To evaluate this proposal, we recorded IT neural responses astwo monkeys performed a single-exposure visual memory task designed to measure the rates offorgetting with time."
+    },
+    {
+      "name": "Prediction suppression and surprise enhancement in monkey inferotemporal cortex",
+      "publisher": "Journal of Neurophysiology",
+      "releaseDate": "Jul 2017",
+      "url": "https://meyerbox.travismeyer.us/url/yadqnw6ehgujadtp",
+      "summary": "Exposing monkeys, over the course of daysand weeks, to pairs of images presented in fixed sequence, so that eachleading image becomes a predictor for the corresponding trailingimage, affects neuronal visual responsiveness in area TE. At the endof the training period, neurons respond relatively weakly to a trailingimage when it appears in a trained sequence and, thus, confirmsprediction, whereas they respond relatively strongly to the same imagewhen it appears in an untrained sequence and, thus, violates predic-tion."
+    },
+    {
+      "name": "Prediction suppression in monkey inferotemporal cortex depends on the conditional probability between images",
+      "publisher": "Journal of Neurophysiology",
+      "releaseDate": "Jan 2016",
+      "url": "https://meyerbox.travismeyer.us/url/yxpe2pyw2gxvmmkq",
+      "summary": "When monkeysview two images in fixed sequence repeatedly over days and weeks,neurons in area TE of the inferotemporal cortex come to exhibitprediction suppression. The trailing image elicits only a weak re-sponse when presented following the leading image that preceded itduring training."
+    },
+    {
+      "name": "Image familiarization sharpens response dynamics of neurons in inferotemporal cortex",
+      "publisher": "Nature Neuroscience",
+      "releaseDate": "Aug 2014",
+      "url": "https://meyerbox.travismeyer.us/url/tjx3jsptehan2dyf",
+      "summary": "Repeated viewing of an image over days and weeks induces a marked reduction in the strength with which neurons in monkey inferotemporal cortex respond to it. The processing advantage that attaches to this reduction is unknown."
     }
   ],
   "skills": [
@@ -162,24 +209,6 @@
         "Sea planes - Icon A5 <3",
         "Can't wait for electric VTOLs"
       ]
-    }
-  ],  
-  "projects": [
-    {
-      "name": "TravNet",
-      "summary": "A computer vision project to automate sorting of neuron clusters - saving ~2 hours per day.",
-      "highlights": ["CNNs", "DataWrangling"],
-      "startDate": "2020",
-      "endDate": "2022",
-      "url": "https://github.com/meyert11/travnet"
-    },
-    {
-      "name": "ViaDoc",
-      "summary": "A computer vision project to automate the identification of sensative financial documents.",
-      "highlights": ["Multimodal Transformers", "AWS prod development"],
-      "startDate": "2024",
-      "endDate": "present",
-      "url": ""
     }
   ]
 }
