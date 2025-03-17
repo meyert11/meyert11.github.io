@@ -92,7 +92,7 @@
       "issuer": "LinkedIn",
       "url": "https://www.linkedin.com/learning/certificates/8863d586068280bef1d84b4ff41ef19230b582abfce3e3cbe991a9913d18cca1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BrzHG%2BFTXQ8y2XRvxvCXBZQ%3D%3D",
       "icon": "fa-solid fa-hashtag"
-    },    
+    }
   ],
   "publications": [
     {
@@ -151,7 +151,7 @@
       "keywords": [
         "Building home labs",
         "Trying out new models",
-        "Reading papers",        
+        "Reading papers"     
       ]
     },
     {
@@ -160,7 +160,7 @@
       "keywords": [
         "Flight simulators are my jam",
         "Sea planes - Icon A5 <3",
-        "Can't wait for electric VTOLs",        
+        "Can't wait for electric VTOLs"
       ]
     }
   ],  
