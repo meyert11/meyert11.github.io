@@ -162,6 +162,62 @@
       "releaseDate": "Aug 2014",
       "url": "https://meyerbox.travismeyer.us/url/tjx3jsptehan2dyf",
       "summary": "Repeated viewing of an image over days and weeks induces a marked reduction in the strength with which neurons in monkey inferotemporal cortex respond to it. The processing advantage that attaches to this reduction is unknown."
+    },
+    {
+      "name": "Differences in Intrinsic Functional Organization Between Dorsolateral Prefrontal and Posterior Parietal Cortex",
+      "publisher": "Cerebral Cortex",
+      "releaseDate": "Mar 2013",
+      "url": "https://meyerbox.travismeyer.us/url/grtdrfs4itzjqwb3",
+      "summary": "The dorsolateral prefrontal and posterior parietal cortex are 2 com-ponents of the cortical network controlling attention, workingmemory, and executive function. Little is known about how the ana-tomical organization of the 2 areas accounts for their functionalspecialization"
+    },
+    {
+      "name": "Neural Correlates of a Decision Variable Before Learning to Perform a Match/Non-Match Task",
+      "publisher": "Journal of Neuroscience",
+      "releaseDate": "May 2012",
+      "url": "https://meyerbox.travismeyer.us/url/miaguvuvayifspw4",
+      "summary": "The lateral prefrontal cortex plays an important role in working memory and decision-making, although little is known about how neuralcorrelates of these functions are shaped by learning. To understand the effect of learning on the neuronal representation of decision-making,werecordedsingleneuronsfromthelateralprefrontalcortexofmonkeysbeforeandaftertheyweretrainedtojudgewhethertwostimuli appeared at matching spatial locations."
+    },
+    {
+      "name": "Statistical learning of visual transitions in monkey inferotemporal cortex",
+      "publisher": "Proceedings of the National Academy of Sciences",
+      "releaseDate": "Nov 2011",
+      "url": "https://meyerbox.travismeyer.us/url/bwbsacb7ixhfmcre",
+      "summary": "One of the most fundamental functions of the brain is to predictupcoming events on the basis of the recent past. A closely relatedfunction is to signal when a prediction has been violated."
+    },
+    {
+      "name": "Stimulus Selectivity in Dorsal and Ventral Prefrontal Cortex after Training in Working Memory Tasks",
+      "publisher": "Journal of Neuroscience",
+      "releaseDate": "Apr 2011",
+      "url": "https://meyerbox.travismeyer.us/url/juiaxifevpez2nui",
+      "summary": "The prefrontal cortex is known to represent different types of information in working memory. Contrasting theories propose that thedorsal and ventral regions of the lateral prefrontal cortex are innately specialized for the representation of spatial and nonspatialinformation, respectively (Goldman-Rakic, 1996), or that the two regions are shaped by the demands of cognitive tasks imposed on them(Miller, 2000)"
+    },
+    {
+      "name": "Changes in Prefrontal Neuronal Activity after Learning to Perform a Spatial Working Memory Task",
+      "publisher": "Cerebral Cortex",
+      "releaseDate": "Apr 2011",
+      "url": "https://meyerbox.travismeyer.us/url/iswtnmyk4bgvuzme",
+      "summary": "The prefrontal cortex is considered essential for learning to performcognitive tasks though little is known about how the representationof stimulus properties is altered by learning. To address this issue,we recorded neuronal activity in monkeys before and after trainingon a task that required visual working memory."
+    },
+    {
+      "name": "Comparison of neural activity related to working memory in primate dorsolateral prefrontal and posterior parietal cortex",
+      "publisher": "Frontiers in Systems Neuroscience",
+      "releaseDate": "Apr 2010",
+      "url": "https://meyerbox.travismeyer.us/url/ayuvxhnhpphmc4qt",
+      "summary": "Neurons in a distributed network of cortical and subcortical areas continue to discharge after the presentation and disappearance of stimuli, providing a neural correlate for working memory. While it is thought that the prefrontal cortex plays a central role in this network, the relative contributions of other brain areas are not as well understood."
+    },
+    {
+      "name": "Persistent Discharges in the Prefrontal Cortex of Monkeys Naive to Working Memory Tasks",
+      "publisher": "Cerebral Cortex",
+      "releaseDate": "Aug 2007",
+      "url": "https://meyerbox.travismeyer.us/url/eksiwdude6fyrgci",
+      "summary": "Neurons in the prefrontal cortex and a network of interconnectedbrain areas discharge in a persistent fashion after the offset ofsensory stimulation. Such persistent discharges are thought toconstitute a neuronal correlate of working memory."
+    },
+    {
+      "name": "A software solution for the control of visual behavioral experimentation",
+      "publisher": "Journal of Neuroscience Methods",
+      "releaseDate": "Mar 2005",
+      "url": "https://meyerbox.travismeyer.us/url/rzmpjkyimc5pecuu",
+      "summary": "Psychophysical and neurophysiological research requires precise control of experimental devices for the purpose of delivering stimuli andmonitoring behavioral and neural responses. This has previously been accomplished by complex, often proprietary, programmable systems,interfacing with a limited range of hardware."
     }
   ],
   "skills": [
