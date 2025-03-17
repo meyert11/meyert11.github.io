@@ -15,8 +15,8 @@ profile:
     </div>    
 
 news: false # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
 Travis Meyer is a Senior Data Scientist in Customer Experience at Vanguard. He uses his background as a Neuroscientist at the [University of Pennsylvania](https://www.med.upenn.edu/neuroscience/), and Deep Learning at [Carnegie Mellon University](https://www.cmu.edu/) to develop artificial intelligence tools that process and simplify large amounts of data.

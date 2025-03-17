@@ -59,9 +59,7 @@
       "area": "Neuroscience",
       "studyType": "PhD",
       "startDate": "2002",
-      "endDate": "2008",
-      "score": "",
-      "courses": [""]
+      "endDate": "2008"      
     }
   ],  
   "projects": [
@@ -118,6 +116,53 @@
       "issuer": "LinkedIn",
       "url": "https://www.linkedin.com/learning/certificates/8863d586068280bef1d84b4ff41ef19230b582abfce3e3cbe991a9913d18cca1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BrzHG%2BFTXQ8y2XRvxvCXBZQ%3D%3D",
       "icon": "fa-solid fa-hashtag"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Artifical Intelligence",
+      "level": "Expert",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Computer Vision",
+        "Neural Networks",
+        "Big Data Infrastructure",
+        "AWS Sagemaker",
+        "API Development",
+        "NLP"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "Good",
+      "icon": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Neural Networks",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Building home labs",
+        "Trying out new models",
+        "Reading papers"     
+      ]
+    },
+    {
+      "name": "Flying",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Flight simulators are my jam",
+        "Sea planes - Icon A5 <3",
+        "Can't wait for electric VTOLs"
+      ]
     }
   ],
   "publications": [
@@ -218,53 +263,6 @@
       "releaseDate": "Mar 2005",
       "url": "https://meyerbox.travismeyer.us/url/rzmpjkyimc5pecuu",
       "summary": "Psychophysical and neurophysiological research requires precise control of experimental devices for the purpose of delivering stimuli andmonitoring behavioral and neural responses. This has previously been accomplished by complex, often proprietary, programmable systems,interfacing with a limited range of hardware."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Artifical Intelligence",
-      "level": "Expert",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Computer Vision",
-        "Neural Networks",
-        "Big Data Infrastructure",
-        "AWS Sagemaker",
-        "API Development",
-        "NLP"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "German",
-      "fluency": "Good",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Neural Networks",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Building home labs",
-        "Trying out new models",
-        "Reading papers"     
-      ]
-    },
-    {
-      "name": "Flying",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Flight simulators are my jam",
-        "Sea planes - Icon A5 <3",
-        "Can't wait for electric VTOLs"
-      ]
     }
   ]
 }
