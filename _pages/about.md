@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >    
     <div style="text-align: center;">
-    <p>        Vanguard        </p>
+    <p>Vanguard - </p>
     <p>Malvern, PA</p>
     </div>    
 

@@ -67,8 +67,8 @@
       "name": "TravNet",
       "summary": "A computer vision project to automate sorting of neuron clusters - saving ~2 hours per day.",
       "highlights": ["CNNs", "DataWrangling"],
-      "startDate": "2020",
-      "endDate": "2022",
+      "startDate": "2022",
+      "endDate": "2024",
       "url": "https://github.com/meyert11/travnet"
     },
     {
