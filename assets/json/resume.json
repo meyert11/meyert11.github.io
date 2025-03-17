@@ -31,20 +31,26 @@
       "endDate": "",
       "summary": "Developing AI algorithms to improve customer experience and reduce costs.",
       "highlights": ["NLP, ML, AI, AWS, Python, SQL"]
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "",
-      "location": "",
-      "position": "",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [""]
+      "name": "University of Pennsylvania",
+      "position": "Director, Senior Research Scientist",
+      "url": "https://psychology.sas.upenn.edu/people/travis-meyer-0",
+      "startDate": "2015-01-01",
+      "endDate": "2024-08-31",
+      "summary": "Directed Neuroscience Laboratories, developing AI algorithms from primate visual circuitry.",
+      "highlights": ["Primate Vision, Experimentation, AI, ML, Python, Matlab"]
+    },
+    {
+      "name": "Carnegie Mellon University",
+      "position": "Senior Research Scientist",
+      "url": "https://cmu.edu",
+      "startDate": "2008-09-01",
+      "endDate": "2014-12-31",
+      "summary": "Developing AI algorithms from primate visual circuitry.",
+      "highlights": ["Primate Vision, Experimentation, AI, ML, Python, Matlab"]
     }
-  ],
+  ],  
   "education": [
     {
       "institution": "Wake Forest University",
@@ -57,16 +63,7 @@
       "score": "",
       "courses": [""]
     }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
+  ],  
   "certificates": [
     {
       "name": "AWS Machine Learning Specialist",
