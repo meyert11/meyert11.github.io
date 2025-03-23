@@ -4,7 +4,7 @@ title: Home Lab 2 - Privatize your AI
 description: Hosting local AI chat models, and integrating with private mobel and web for free!
 img: assets/img/projects/compute_cluster.jpg
 importance: 2
-category: work
+category: fun
 giscus_comments: true
 ---
 
