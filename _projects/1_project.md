@@ -17,10 +17,10 @@ This project takes a different strategy - instead of trying to perfectly match w
         {% include figure.liquid loading="eager" path="assets/img/projects/clusters.jpg" title="expert sorting" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/color_image.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/color_image.jpg" title="file structure for color image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/Waveblob.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/Waveblob.jpg" title="waveform represented in image file format" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
