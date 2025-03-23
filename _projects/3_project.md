@@ -1,25 +1,16 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: Prompt Engineering
+description: Automate Hypothesis:Comment tagging
+img: assets/img/prompt.jpg
 redirect: https://unsplash.com
-importance: 3
+importance: 4
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Data Science includes more than just developing AI models, it also includes consulations with business stakeholders. Anlysts tend to have immediate needs, and the ability to use prompt engineering can get results fast. This project illustrates the ability to use prompt engineering to automate the association between hypotheses and survey comments.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+One of the en-vogue business tools is hypothesis trees. This involves taking an analyst's objectives and key results (OKRs) and breaking them down into individual hypotheses. Then to complete the tree, we need ground proof data that matches the hypotheses. For example, let's assume an analyst needs to find the friction points in a particualr journey. They may make hypotheses for why clients are having friction during each journey. We can then scan through CSAT comments to see how many times clients have complained about each friction point, proving our hypotheses with ground truth data.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
