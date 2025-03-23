@@ -1,24 +1,15 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Home Lab 1 - Compute Cluster
+description: Created a proxmox GPU server to host GPU instances for ML development
+img: assets/img/projects/compute_cluster.jpg
+importance: 2
+category: work
+giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The foundation of my home projects starts with building the server. This project consists of 2 3080 RTX GPUs, and 1 K80 Tesla GPU. The K80 was a project in itself since it wasn't designed for home use, but for data centers, so I had to adapt a 3D printed fan and custom installations. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
