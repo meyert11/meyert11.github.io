@@ -3,7 +3,7 @@ layout: page
 title: Prompt Engineering
 description: Automate Hypothesis:Comment tagging
 img: assets/img/projects/prompt.jpg
-redirect: https://unsplash.com
+#redirect: https://unsplash.com
 importance: 4
 category: work
 ---
