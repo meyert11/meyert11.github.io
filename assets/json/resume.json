@@ -72,7 +72,7 @@
       "url": "https://github.com/meyert11/travnet"
     },
     {
-      "name": "ViaDoc",
+      "name": "Document Scanner",
       "summary": "A computer vision project to automate the identification of sensative financial documents.",
       "highlights": ["Multimodal Transformers", "AWS prod development"],
       "startDate": "2024",
@@ -80,7 +80,7 @@
       "url": ""
     },
     {
-      "name": "RaFT",
+      "name": "CSAT scanner",
       "summary": "An NLP model using BeRT to cluster and estimate customer senitment using customer survey data",
       "highlights": ["BeRT Models", "NLP, Clustering"],
       "startDate": "2024",
