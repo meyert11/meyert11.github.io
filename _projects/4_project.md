@@ -2,7 +2,7 @@
 layout: page
 title: Home Lab 1 - Compute Cluster
 description: Created a proxmox GPU server to host GPU instances for ML development
-img: assets/img/projects/compute_cluster.jpg
+img: assets/img/projects/compute_cluster.gif
 importance: 2
 category: fun
 giscus_comments: true
