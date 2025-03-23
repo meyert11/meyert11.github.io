@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CSAT sentement scanner
+title: CSAT Scanner
 description: Have NLP read through your Survey comments and give you summaries
 img: assets/img/projects/robot_reader.jpg
 importance: 2
