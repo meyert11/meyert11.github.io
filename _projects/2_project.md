@@ -2,7 +2,7 @@
 layout: page
 title: CSAT sentement scanner
 description: Have NLP read through your Survey comments and give you summaries
-img: assets/img/projects/robot_reader.jpb
+img: assets/img/projects/robot_reader.jpg
 importance: 2
 category: work
 giscus_comments: true
