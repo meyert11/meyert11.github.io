@@ -1,25 +1,16 @@
 ---
 layout: page
-title: project 7
-description: with background image
-img: assets/img/4.jpg
+title: Document Scanner
+description: Automate scanning of documents
+img: assets/img/projects/document_automation.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+One of the time consuming elements of business is when clients upload sensative documents. These documents have to be processed by people, and when the wrong document, or documents not in good order (NIGO) are sent, it can be costly to get clients to re-upload them. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+This projet automated the procedure by using visual-transformers trained on document identification, and fine tuned on customer documents. It utilizes secure protocals like AWS arn:secrets, and BPM-worms; as well as streamlit based annotation to aquire ground truth values for retraining of the models.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
