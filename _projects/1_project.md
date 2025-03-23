@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TravNet
-description: Using computer vision to reduce spike-sorting by 2hours per day!
+description: Using computer vision to reduce spike-sorting saving hours per day!
 img: assets/img/projects/TravNet_repo.jpg
 importance: 1
 category: work
@@ -14,17 +14,17 @@ This project takes a different strategy - instead of trying to perfectly match w
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/clusters.jpg" title="expert sorting" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/color_image.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/Waveblob.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    The typical procedure is for a human to process the raw waveforms, cluster with principal componenets and circle the neurons based on experience. We used the traditional image-file format of a shape and 3 layers (RGB) and instead created a new form: a Waveblob that consists of the neural waveform, and at each location we put the value of the principal component (PC1, PC2, PC3 for RGB).
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
