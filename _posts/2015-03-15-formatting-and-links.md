@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bridging the Gap: From Neuroscience to Data Science
+title: a post with formatting and links
 date: 2025-03-26 16:40:16
 description: march & april, looking forward to summer
 tags: formatting links
