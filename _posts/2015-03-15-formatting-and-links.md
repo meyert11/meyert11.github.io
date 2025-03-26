@@ -7,30 +7,33 @@ tags: formatting links
 categories: sample-posts
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. [Pinterest](https://www.pinterest.com) DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+Welcome to my blog! As someone who has spent years immersed in the world of neuroscience research—first at Carnegie Mellon and later at the University of Pennsylvania—I recently embarked on an exciting new chapter in my career: transitioning to a Senior Data Scientist role at Vanguard. This blog is my space to share insights, lessons learned, and reflections on this journey, as well as to explore topics that inspire me in both science and data.
 
-#### Hipster list
+## Why the Shift?
 
-- brunch
-- fixie
-- raybans
-- messenger bag
+At first glance, neuroscience and data science might seem worlds apart. However, they share a common thread: the pursuit of understanding complex systems. In neuroscience, I studied how neural networks process information; in data science, I analyze patterns in data to solve real-world problems. The tools and techniques I once used to decode the brain—statistical modeling, machine learning, and data visualization—are now helping me tackle challenges in finance.
 
-#### Check List
+## Lessons from Neuroscience That Shape My Data Science Work
 
-- [x] Brush Teeth
-- [ ] Put on socks
-  - [x] Put on left sock
-  - [ ] Put on right sock
-- [x] Go to school
+1. **The Power of Asking the Right Questions**  
+   In research, formulating a clear hypothesis is half the battle. Similarly, in data science, defining the problem is critical. My academic training taught me to approach problems methodically, ensuring that every analysis starts with a strong foundation.
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+2. **Interdisciplinary Thinking**  
+   Neuroscience thrives at the intersection of biology, psychology, and computation. This interdisciplinary mindset has been invaluable in data science, where collaboration across domains often leads to innovative solutions.
 
-<hr>
+3. **Storytelling with Data**  
+   Whether presenting research findings or crafting financial insights, storytelling is key. Communicating complex ideas clearly and effectively is a skill I honed during my academic career and continue to refine in my current role.
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+## What’s Next for This Blog?
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
+Through this blog, I hope to explore topics that sit at the crossroads of science and data. Here are a few ideas for future posts:
+- Practical tips for transitioning from academia to industry.
+- How neuroscience principles can inform data science practices (and vice versa).
+- Tutorials on machine learning techniques or tools I’ve found useful.
+- Reflections on personal growth and career development.
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+I also plan to write about ongoing projects—both professional and personal—and share resources that have been instrumental in my journey. If you’re interested in neuroscience, data science, or career transitions (or all three!), I’d love for you to join me on this adventure.
+
+## Let’s Connect
+
+If you’ve navigated a similar career path or are curious about any aspect of my work, feel free to reach out! You can find more about me on [my website](https://www.travismeyerphd.com) or connect via LinkedIn. I’m always eager to exchange ideas and learn from others.
