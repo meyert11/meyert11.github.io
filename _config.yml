@@ -240,7 +240,6 @@ exclude:
   - _pages/teaching.md
   - CONTRIBUTING.md
   - CUSTOMIZE.md
-  - _pages/blog.md
   - Dockerfile
   - docker-compose.yml
   - docker-compose-slim.yml
